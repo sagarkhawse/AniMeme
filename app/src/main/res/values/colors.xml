@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#110D0D</color>
+    <color name="colorPrimaryDark">#130C0C</color>
+    <color name="colorItemBackground">#ECE4E3</color>
+    <color name="colorInactiveItem">#DA6C5B</color>
+    <color name="colorAccent">#DD2C00</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+
+    <color name="colorRed">#D50000</color>
+    <color name="colorPink">#C51162</color>
+
+    <color name="colorBlue">#0091EA</color>
+    <color name="colorViolate">#AA00FF</color>
+    <color name="colorDarkBlue">#2962FF</color>
+
+    <color name="selected_filter">#221f20</color>
+    <color name="normal_filter">#8a8889</color>
+
+
+</resources>

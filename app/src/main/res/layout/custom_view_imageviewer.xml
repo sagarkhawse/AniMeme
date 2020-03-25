@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:layout_marginBottom="5dp"
+    android:visibility="gone"
+    android:id="@+id/custom_view_imageviewer_linear_layout"
+    android:weightSum="5">
+    <ImageView
+        android:layout_weight="1"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:src="@drawable/download"
+        android:id="@+id/fab_download1"
+        android:elevation="6dp"
+        />
+    <ImageView
+        android:layout_weight="1"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:src="@drawable/share"
+        android:id="@+id/fab_share1"
+        android:elevation="6dp"
+
+        />
+
+
+    <ImageView
+        android:layout_weight="1"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:src="@drawable/whatsapp"
+        android:id="@+id/fab_whatsapp1"
+        android:elevation="6dp"
+
+
+        />
+
+    <ImageView
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:src="@drawable/fb"
+        android:id="@+id/fab_fb1"
+        android:elevation="6dp"
+        android:layout_weight="1"
+        />
+
+    <ImageView
+        android:layout_width="50sp"
+        android:layout_weight="1"
+        android:layout_height="50sp"
+        android:src="@drawable/insta"
+        android:id="@+id/fab_instagram1"
+        android:elevation="6dp"
+
+        />
+</LinearLayout>

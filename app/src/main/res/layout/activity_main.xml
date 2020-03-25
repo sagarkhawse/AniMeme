@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height= "match_parent"
+        android:id="@+id/fragment_container"
+       />
+
+<!--    <com.gauravk.bubblenavigation.BubbleNavigationLinearView-->
+<!--        android:id="@+id/bottom_navigation_view_linear"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="@color/colorWhite"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:elevation="8dp"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:padding="10dp">-->
+
+
+
+
+
+<!--        <com.gauravk.bubblenavigation.BubbleToggleView-->
+
+<!--            android:layout_weight="1"-->
+<!--            android:id="@+id/l_item_home"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            app:bt_active="true"-->
+<!--            app:bt_colorActive="@color/colorAccent"-->
+<!--            app:bt_colorInactive="@color/colorInactiveItem"-->
+<!--            app:bt_icon="@drawable/ic_home_black_24dp"-->
+<!--            app:bt_shape="@drawable/bottom_bar_item_background"-->
+<!--            app:bt_title="Home"-->
+<!--            app:bt_duration="500"-->
+
+<!--            app:bt_padding="8dp"-->
+<!--            app:bt_titlePadding="5dp" />-->
+
+<!--        <com.gauravk.bubblenavigation.BubbleToggleView-->
+<!--            android:layout_weight="1"-->
+<!--            android:id="@+id/l_item_theme"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            app:bt_active="true"-->
+<!--            app:bt_duration="500"-->
+<!--            app:bt_colorActive="@color/colorAccent"-->
+<!--            app:bt_colorInactive="@color/colorInactiveItem"-->
+<!--            app:bt_icon="@drawable/ic_search_black_24dp"-->
+<!--            app:bt_shape="@drawable/bottom_bar_item_background"-->
+<!--            app:bt_title="Search"-->
+<!--            app:bt_padding="8dp"-->
+
+
+<!--            app:bt_titlePadding="5dp" />-->
+
+
+<!--        <com.gauravk.bubblenavigation.BubbleToggleView-->
+<!--            android:layout_weight="1"-->
+<!--            android:id="@+id/l_item_profile"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            app:bt_active="true"-->
+<!--            app:bt_duration="500"-->
+<!--            app:bt_colorActive="@color/colorAccent"-->
+<!--            app:bt_colorInactive="@color/colorInactiveItem"-->
+<!--            app:bt_icon="@drawable/ic_home_black_24dp"-->
+<!--            app:bt_shape="@drawable/bottom_bar_item_background"-->
+<!--            app:bt_title="Profile"-->
+<!--            app:bt_padding="8dp"-->
+<!--            app:bt_titlePadding="5dp" />-->
+
+
+
+
+<!--        &lt;!&ndash; Add more child items here - max upto eight &ndash;&gt;-->
+
+<!--    </com.gauravk.bubblenavigation.BubbleNavigationLinearView>-->
+
+
+</RelativeLayout>
